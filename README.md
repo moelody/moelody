@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi！
+## Hi! 👋
 Welcome, this is my [blog](https://www.moelody.com)
 
-```Code
+```C
 if(FALSE == true)
   TRUE = false;
 if(NULL == exist)
